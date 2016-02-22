@@ -1,10 +1,11 @@
 {
-  "name": "gulp-iconfont-consolidate-scss-template",
+  "name": "gulp-iconfont-template",
   "main": "_template.scss",
   "version": "2.0.2",
-  "homepage": "https://github.com/Arjen-Smit/gulp-iconfont-consolidate-scss-template",
+  "homepage": "https://github.com/ConnectHolland/gulp-iconfont-template",
   "authors": [
-    "Arjen Smit <arjen@alnitak.nl>"
+    "Arjen Smit <arjen@alnitak.nl>",
+    "Giso Stallenberg <giso@conectholland.nl>"
   ],
   "description": "A simple template that uses consolidate to generate a iconfont scss file",
   "keywords": [
